@@ -2,6 +2,8 @@
 
 This project involves analyzing the statistics of UFC fighters using Python and various data analysis libraries like Pandas, Matplotlib, Seaborn, and Jupyter Notebook.
 
+Dataset can be found [here](https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics)
+
 ## Overview
 
 The Python script reads a CSV file containing UFC fighter statistics and performs various analyses, visualizations, and explorations on the data.
