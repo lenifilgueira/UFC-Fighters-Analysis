@@ -1,5 +1,7 @@
 # UFC Fighters Statistics Analysis
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/800px-UFC_Logo.png)
+
 This project involves analyzing the statistics of UFC fighters using Python and various data analysis libraries like Pandas, Matplotlib, Seaborn, and Jupyter Notebook.
 
 Dataset can be found [here](https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics)
